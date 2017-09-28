@@ -1,11 +1,8 @@
-theme: jekyll-theme-cayman
 name: Your Name
 description: Web Developer from Somewhere
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 disqus:
 google_analytics:
-url:
-baseurl: ""
+url: http://riken-aics.github.io
 permalink: /:title/
 version: v1.2.0
 kramdown:
