@@ -8,7 +8,9 @@ Some projects have independent Github organizations (incomplete list):
 * [https://github.com/pf-aics-riken](https://github.com/pf-aics-riken)
 * [https://github.com/ebt-hpc](https://github.com/ebt-hpc)
 * [https://github.com/crest-cassia](https://github.com/crest-cassia)
-* [XcalableMP Specification Documentation](https://github.com/XcalableMP)
+* [XcalableMP Specification](https://github.com/XcalableMP/Specification)
+* [Omni compiler](https://github.com/omni-compiler/omni-compiler)
+
 
 The projects under RIKEN-AICS:
 
@@ -25,7 +27,7 @@ The projects under RIKEN-AICS:
 |NetCDF|NetCDF is a set of software libraries and self-describing, machine-independent data formats that supports the creation, access, and sharing of array-oriented scientific data. We provide NetCDF library and related libraries (HDF5, Parallel netCDF and Szip) on the K computer compute hosts and frontends.|
 |PRDMA （Persistent Remote DMA）	|The PRDMA library provides a fast implementation of MPI Persistent Communication primitives to reduce the communication latency and to improve the overlap between computation and communication over an RDMA-enabled interconnect.|
 |MUMPS|MUMPS(MUltifrontal Massively Parallel sparse direct Solver) is a package for solving sparse linear systems using the direct method. MUMPS supports MPI parallel procedures.|
-|Omni XcalableMP|Omni XcalableMP is a compiler for a parallel programming language XcalableMP, which is a directive-based language extension for Fortran and C. Using Omni XcalableMP, you can develop parallel programs effectively.|
+|Omni compiler|Omni compiler is a compiler for parallel programming languages XcalableMP, XcalableACC, OpenACC.|
 |Scalasca|Scalasca is a software tool that supports the performance optimization of parallel programs by measuring and analyzing their runtime behavior. The analysis identifies potential performance bottlenecks - in particular, those concerning communication and synchronization – and offers guidance in exploring their causes.|
 |EigenExa|EigenExa is a high performance eigenvalue solver, which is developed as a successor of EigenK. It is tuned up on the K computer. As EigenK does, EigenExa also solves a standard eigenvalue problem for a dense real symmetric matrix, and it performs very fast even with large-scale parallel computations and small scale problems.|
 |EigenK|EigenK is an eigenvalue solver, which is developed to work on the K computer efficiently. EigenK solves a standard eigenvalue problem for a dense real symmetric matrix. EigenK performs large-scale parallel computation and small scale problem faster than the existing eigenvalue solvers do.|
