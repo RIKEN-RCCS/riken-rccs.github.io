@@ -13,7 +13,7 @@ Some projects have independent Github organizations (incomplete list):
 The projects under RIKEN-AICS:
 
 {% for repository in site.github.public_repositories %}
-  * [{{repository.name}}]({{repository.html_url}})
+  * [{{repository.name}}]({{repository.html_url}}) {{repository.description}}
 {% endfor %}
 
 ## The (imcomplete) List of Software developed by RIKEN AICS
