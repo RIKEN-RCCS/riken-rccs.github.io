@@ -1,15 +1,19 @@
-# RIKEN AICS
+# Software developed by RIKEN AICS
 
-RIKEN AICS is a national research institute for computational science and computer science for computer simulations with supercomputers. Some software developed by RIKEN AICS is hosted by Github.
+RIKEN AICS (http://www.aics.riken.jp/en/) is a national research institute for computational science and computer science for computer simulations with supercomputers. Some software developed by RIKEN AICS is hosted by Github.
 
-The project is called {{ site.github.project_title }}
+Some projects have independent Github organizations (incomplete list):
+* Fibre miniapps http://fiber-miniapp.github.io
+* https://github.com/avr-aics-riken
+* https://github.com/pf-aics-riken
+
+The projects under RIKEN-AICS:
 
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
 
-
-## Software developed by RIKEN AICS
+## The (imcomplete) List of Software developed by RIKEN AICS
 
 |Name|Description|
 |----|----|
