@@ -1,5 +1,14 @@
 # RIKEN AICS
 
+RIKEN AICS is a national research institute for computational science and computer science for computer simulations with supercomputers. Some software developed by RIKEN AICS is hosted by Github.
+
+The project is called {{ site.github.project_title }}
+
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})
+{% endfor %}
+
+
 ## Software developed by RIKEN AICS
 
 |Name|Description|
