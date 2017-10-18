@@ -6,7 +6,7 @@ Some projects have independent Github organizations (incomplete list):
 *  [Fiber Miniapp Suite](http://fiber-miniapp.github.io)
 * [https://github.com/avr-aics-riken](https://github.com/avr-aics-riken)
 * [https://github.com/pf-aics-riken](https://github.com/pf-aics-riken)
-* [Evidence-Based performance Tuning (EBT-HPC)]](https://github.com/ebt-hpc)
+* [Evidence-Based performance Tuning (EBT-HPC)](https://github.com/ebt-hpc)
 * [https://github.com/crest-cassia](https://github.com/crest-cassia)
 * [XcalableMP Specification](https://github.com/XcalableMP/Specification)
 * [Omni compiler](https://github.com/omni-compiler/omni-compiler)
