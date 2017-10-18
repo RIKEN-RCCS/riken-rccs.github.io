@@ -10,7 +10,7 @@ Some projects have independent Github organizations (incomplete list):
 * [https://github.com/crest-cassia](https://github.com/crest-cassia)
 * [XcalableMP Specification](https://github.com/XcalableMP/Specification)
 * [Omni compiler](https://github.com/omni-compiler/omni-compiler)
-* [Evidence-Based performance Tuning](https://github.com/ebt-hpc)
+* [Evidence-Based performance Tuning (EBT-HPC)](https://github.com/ebt-hpc)
 * [Extrae](https://github.com/bsc-performance-tools/extrae) 
 
 The projects under RIKEN-AICS:
