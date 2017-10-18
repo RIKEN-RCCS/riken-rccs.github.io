@@ -18,7 +18,7 @@ The projects under RIKEN-AICS:
   * [{{repository.name}}]({{repository.html_url}}): {{repository.description}}
 {% endfor %}
 
-## List of Software developed by RIKEN AICS (imcomplete)
+## List of software developed by RIKEN AICS (imcomplete)
 
 |Name|Description|
 |----|----|
