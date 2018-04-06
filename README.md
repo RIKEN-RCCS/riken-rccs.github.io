@@ -1,9 +1,9 @@
-# Software developed by RIKEN AICS
+# Software developed by RIKEN R-CCS
 
-RIKEN AICS ([http://www.aics.riken.jp/en/](http://www.aics.riken.jp/en/)) is a national research institute for computational science and computer science for computer simulations with supercomputers. Some software developed by RIKEN AICS are hosted by GitHub.
+RIKEN R-CCS ([http://www.r-ccs.riken.jp/en/](http://www.r-ccs.riken.jp/en/)) is a national research institute for computational science and computer science for computer simulations with supercomputers. Some software developed by RIKEN R-CCS are hosted by GitHub.  (RIKEN R-CCS is formerly named as RIKEN AICS, it was renamed in April 2018).
 
 Some projects have independent GitHub organizations (incomplete list):
-*  [Fiber Miniapp Suite](http://fiber-miniapp.github.io)
+* [Fiber Miniapp Suite](http://fiber-miniapp.github.io)
 * [https://github.com/avr-aics-riken](https://github.com/avr-aics-riken)
 * [https://github.com/pf-aics-riken](https://github.com/pf-aics-riken)
 * [Evidence-Based performance Tuning (EBT-HPC)](https://github.com/ebt-hpc)
@@ -12,13 +12,13 @@ Some projects have independent GitHub organizations (incomplete list):
 * [Omni compiler](https://github.com/omni-compiler/omni-compiler)
 * [Extrae](https://github.com/bsc-performance-tools/extrae) 
 
-The projects under RIKEN-AICS:
+The projects under RIKEN-RCSS:
 
 {% for repository in site.github.public_repositories %}
   * [{{repository.name}}]({{repository.html_url}}): {{repository.description}}
 {% endfor %}
 
-## Incomplete list of software developed by RIKEN AICS (including software just ported to K computer)
+## Incomplete list of software developed by RIKEN R-CSS (including software just ported to K computer)
 
 |Name|Description|
 |----|----|
