@@ -15,7 +15,7 @@ Some projects have independent GitHub organizations (incomplete list):
 * [Omni compiler](https://github.com/omni-compiler/omni-compiler)
 * [Extrae](https://github.com/bsc-performance-tools/extrae) 
 
-## The projects under RIKEN R-CSS GitHub
+## The projects under RIKEN-RCSS GitHub
 
 Repositories include some small patches just to port open-source software to K computer.
 
