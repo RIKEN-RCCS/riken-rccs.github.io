@@ -1,6 +1,6 @@
 # Software developed by RIKEN R-CCS
 
-RIKEN R-CCS ([http://www.r-ccs.riken.jp/en/](http://www.r-ccs.riken.jp/en/)) is a national research institute for computational science and computer science for computer simulations with supercomputers. Some software developed by RIKEN R-CCS are hosted by GitHub.  (RIKEN R-CCS is formerly named as RIKEN AICS, it was renamed in April 2018).
+RIKEN R-CCS ([http://www.r-ccs.riken.jp/en/](http://www.r-ccs.riken.jp/en/)) is a research center for computational science and computer science for simulations with supercomputers. Some software developed by RIKEN R-CCS are hosted by GitHub.  (RIKEN R-CCS is formerly named as RIKEN AICS, renamed in April 2018).
 
 Some projects have independent GitHub organizations (incomplete list):
 * [Fiber Miniapp Suite](http://fiber-miniapp.github.io)
