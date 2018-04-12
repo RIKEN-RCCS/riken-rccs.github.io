@@ -2,6 +2,9 @@
 
 RIKEN R-CCS ([http://www.r-ccs.riken.jp/en/](http://www.r-ccs.riken.jp/en/)) is a research center for computational science and computer science for simulations with supercomputers. Some software developed by RIKEN R-CCS are hosted by GitHub.  (RIKEN R-CCS is formerly named as RIKEN AICS, renamed in April 2018).
 
+Some projects have descriptions in "RIKEN R-CCS Software Ceter":
+* [http://www.r-ccs.riken.jp/software_center/](http://www.r-ccs.riken.jp/software_center/)
+
 Some projects have independent GitHub organizations (incomplete list):
 * [Fiber Miniapp Suite](http://fiber-miniapp.github.io)
 * [https://github.com/avr-aics-riken](https://github.com/avr-aics-riken)
@@ -12,7 +15,7 @@ Some projects have independent GitHub organizations (incomplete list):
 * [Omni compiler](https://github.com/omni-compiler/omni-compiler)
 * [Extrae](https://github.com/bsc-performance-tools/extrae) 
 
-## The projects under RIKEN R-CSS
+## The projects under RIKEN R-CSS GitHub
 
 Repositories include some small patches just to port open-source software to K computer.
 
@@ -21,6 +24,9 @@ Repositories include some small patches just to port open-source software to K c
 {% endfor %}
 
 ## Incomplete list of software developed by RIKEN R-CSS
+
+Software developed by RIKEN R-CCS are deployed on K computer, and they can be found in the portals of K computer.
+This is a list of them.
 
 |Name|Description|
 |----|----|
