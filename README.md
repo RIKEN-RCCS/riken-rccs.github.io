@@ -12,7 +12,7 @@ Some projects have independent GitHub organizations (incomplete list):
 * [Omni compiler](https://github.com/omni-compiler/omni-compiler)
 * [Extrae](https://github.com/bsc-performance-tools/extrae) 
 
-The projects under RIKEN-RCSS:
+The projects under RIKEN R-CSS:
 
 {% for repository in site.github.public_repositories %}
   * [{{repository.name}}]({{repository.html_url}}): {{repository.description}}
