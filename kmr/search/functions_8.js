@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['parse_5fargs',['parse_args',['../kmrshell_8c.html#aca98df829b1b40417fc5effaca4958c4',1,'kmrshell.c']]],
-  ['pipeops',['pipeops',['../kmrshell_8c.html#aa228b18c4467202d8523c86de1acaee6',1,'kmrshell.c']]],
-  ['put_5fconf',['put_conf',['../class_m_p_i_d_p.html#adbc021ddd6e3e46c5df39b51965e76a4',1,'MPIDP']]],
-  ['put_5ftask_5flist',['put_task_list',['../class_m_p_i_d_p.html#aeb035f5649f3f5d037643b4f4fb4968d',1,'MPIDP']]]
+  ['list_5ftasks_5frank0',['list_tasks_rank0',['../kmrdp_8cpp.html#a1bbe85900fbf241cbc1f79ddfa6cb1ee',1,'kmrdp.cpp']]],
+  ['local_5felement_5fcount',['local_element_count',['../classkmr4py_1_1KVS.html#a87120a434c87c3d123a1621f4a6ee732',1,'kmr4py::KVS']]]
 ];

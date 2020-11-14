@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['filereader',['filereader',['../kmrshell_8c.html#aa41c408d7e743e71eafdecb0ab2fb1a5',1,'kmrshell.c']]],
-  ['focus_5fscheduler',['focus_scheduler',['../kmrrungenscript_8in_8py.html#ac683cae03beed2d9001e748906704a57',1,'kmrrungenscript']]]
+  ['dismiss',['dismiss',['../classkmr4py_1_1KMR.html#a35927a0992271e57badd29a873a55eac',1,'kmr4py::KMR']]],
+  ['distribute',['distribute',['../classkmr4py_1_1KVS.html#ae06c2d33f46d947436ccd86123acb4ed',1,'kmr4py::KVS']]]
 ];

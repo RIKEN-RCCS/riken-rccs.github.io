@@ -1,11 +1,7 @@
 var searchData=
 [
-  ['safe_5fatoi',['safe_atoi',['../kmrdp_8cpp.html#a3f0ffed18dfec6cc2def41f9c9915bf7',1,'kmrdp.cpp']]],
-  ['select_5fscheduler',['select_scheduler',['../kmrrungenscript_8in_8py.html#a7a5638298f252fe741ec33ac1db8893a',1,'kmrrungenscript']]],
-  ['selectscheduler',['selectscheduler',['../kmrgenscript_8in_8py.html#acc3886a50205a6daf0bf49ca7592550b',1,'kmrgenscript']]],
-  ['setup_5frank0',['setup_rank0',['../kmrdp_8cpp.html#aa16e5873c9b464d7482b4ccd65966cba',1,'kmrdp.cpp']]],
-  ['splitfile',['splitfile',['../kmrfsplit_8py.html#a26c54054f9d76e8f26c190d5da71dbb1',1,'kmrfsplit']]],
-  ['start_5ftask',['start_task',['../class_m_p_i_d_p.html#ae3399e452af7020a24c0e2136822c886',1,'MPIDP::start_task()'],['../kmrdp_8cpp.html#a41151148ba6fc6bac8d943f40b92569b',1,'start_task():&#160;kmrdp.cpp']]],
-  ['streaminputfn',['streaminputfn',['../kmrshuffler_8c.html#a0c053e0ccee98cc40f90c44254c6620e',1,'kmrshuffler.c']]],
-  ['streamoutputfn',['streamoutputfn',['../kmrshuffler_8c.html#ad80feeb1964d9d0db98c54e84161508c',1,'kmrshuffler.c']]]
+  ['parse_5fargs',['parse_args',['../kmrshell_8c.html#aca98df829b1b40417fc5effaca4958c4',1,'kmrshell.c']]],
+  ['pipeops',['pipeops',['../kmrshell_8c.html#aa228b18c4467202d8523c86de1acaee6',1,'kmrshell.c']]],
+  ['put_5fconf',['put_conf',['../classMPIDP.html#adbc021ddd6e3e46c5df39b51965e76a4',1,'MPIDP']]],
+  ['put_5ftask_5flist',['put_task_list',['../classMPIDP.html#aeb035f5649f3f5d037643b4f4fb4968d',1,'MPIDP']]]
 ];

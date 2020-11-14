@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['inpara',['INPARA',['../struct_i_n_p_a_r_a.html',1,'']]],
-  ['io_5fgrp',['io_grp',['../structio__grp.html',1,'']]]
+  ['fjmpi_5frdma_5fcq',['FJMPI_Rdma_cq',['../structFJMPI__Rdma__cq.html',1,'']]],
+  ['flexdice',['FLEXDICE',['../structFLEXDICE.html',1,'']]]
 ];

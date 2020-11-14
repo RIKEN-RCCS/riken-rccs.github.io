@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['layer',['LAYER',['../struct_l_a_y_e_r.html',1,'']]],
-  ['linelen',['LINELEN',['../kmrshell_8c.html#a764eaf37b6117ac7a17b1c049c1d2d16',1,'LINELEN():&#160;kmrshell.c'],['../kmrshuffler_8c.html#a764eaf37b6117ac7a17b1c049c1d2d16',1,'LINELEN():&#160;kmrshuffler.c'],['../wc_8mapper_8c.html#a764eaf37b6117ac7a17b1c049c1d2d16',1,'LINELEN():&#160;wc.mapper.c'],['../wc_8reducer_8c.html#a764eaf37b6117ac7a17b1c049c1d2d16',1,'LINELEN():&#160;wc.reducer.c']]],
-  ['list_5ftasks_5frank0',['list_tasks_rank0',['../kmrdp_8cpp.html#a1bbe85900fbf241cbc1f79ddfa6cb1ee',1,'kmrdp.cpp']]]
+  ['ignorechar',['ignoreChar',['../wc_8mapper_8c.html#a6040b62e42a98df9ae7be0d47b9f8c34',1,'wc.mapper.c']]],
+  ['inpara',['INPARA',['../structINPARA.html',1,'']]],
+  ['io_5fgrp',['io_grp',['../structio__grp.html',1,'']]]
 ];
