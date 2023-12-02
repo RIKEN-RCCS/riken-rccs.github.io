@@ -24,9 +24,9 @@ Projects distribute their software in GitHub.com organizations (the list is inco
 * [Omni compiler](https://github.com/omni-compiler/omni-compiler)
 * [Extrae](https://github.com/bsc-performance-tools/extrae) 
 
-Other projects distribute their software in the common organization at
-[https://github.com/RIKEN-RCCS/](https://github.com/RIKEN-RCCS/)
+Other projects distribute their software in a common organization at
+[https://github.com/RIKEN-RCCS/](https://github.com/RIKEN-RCCS/):
 
 {% for repository in site.github.public_repositories %}
-* [{{repository.name}}]({{repository.html_url}}) (☆{{repository.stargazers_count}}): {{repository.description}}
+* [{{repository.name}}]({{repository.html_url}}) ☆{{repository.stargazers_count}}: {{repository.description}}
 {% endfor %}
