@@ -28,5 +28,5 @@ Other projects distribute their software in the common organization at
 [https://github.com/RIKEN-RCCS/](https://github.com/RIKEN-RCCS/)
 
 {% for repository in site.github.public_repositories %}
-* [{{repository.name}}]({{repository.html_url}}): {{repository.description}} (☆ {{repository.stargazers_count}})
+* [{{repository.name}}]({{repository.html_url}}) (☆{{repository.stargazers_count}}): {{repository.description}}
 {% endfor %}
