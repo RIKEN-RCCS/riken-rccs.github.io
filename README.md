@@ -1,6 +1,6 @@
 # Software developed by RIKEN R-CCS
 
-RIKEN R-CCS ([http://www.r-ccs.riken.jp/en](http://www.r-ccs.riken.jp/en)) is a research center for computational sciences and computer science for simulations with supercomputers, and it hosts [Fugaku supercomputer](https://www.r-ccs.riken.jp/en/fugaku/). (RIKEN R-CCS is formerly named as RIKEN AICS, renamed in April 2018).  R-CCS distributes developed software as open source software.
+[RIKEN R-CCS](http://www.r-ccs.riken.jp/en) is a research center for computational sciences and computer science for simulations with supercomputers, and it hosts [Fugaku supercomputer](https://www.r-ccs.riken.jp/en/fugaku/). (RIKEN R-CCS is formerly named RIKEN AICS, renamed in April 2018).  R-CCS distributes developed software as open source software.
 
 ## R-CCS Software Ceter
 
@@ -25,8 +25,8 @@ Projects distribute their software in GitHub.com organizations (the list is inco
 * [Extrae](https://github.com/bsc-performance-tools/extrae) 
 
 Other projects distribute their software in the common organization at
-([https://github.com/RIKEN-RCCS/](https://github.com/RIKEN-RCCS/))
+[https://github.com/RIKEN-RCCS/](https://github.com/RIKEN-RCCS/)
 
-{% for repository in (site.github.public_repositories | sort: 'stargazers_count') | reverse | where: "fork", "false" %}
-  * [{{repository.name}}]({{repository.html_url}}): {{repository.description}}
+{% for repository in site.github.public_repositories %}
+* [{{repository.name}}]({{repository.html_url}}): {{repository.description}} (☆ {{repository.stargazers_count}})
 {% endfor %}
